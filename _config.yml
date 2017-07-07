@@ -21,8 +21,8 @@ comments: true
 paginate_path: "/page/:num"
 
 sass:
-  style: :compressed
   sass_dir: _sass
+#  style: :compressed
 
 # Build settings
 markdown  : kramdown
